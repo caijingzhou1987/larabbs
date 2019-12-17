@@ -12,6 +12,7 @@
 @import '~@fortawesome/fontawesome-free/scss/regular';
 @import '~@fortawesome/fontawesome-free/scss/solid';
 @import '~@fortawesome/fontawesome-free/scss/brands';
+@import "topic_body";
 
 
 /* header */
@@ -114,9 +115,6 @@ body {
 .simditor-body img{
   max-width:100%;
 }
-
-@import "topic_body";
-
 .topics-show-page {
 
     .card {
